@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bf0254f-95e8-44ac-ac93-3bcca49069c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DownloadFileApplication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DownloadFileApplication/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DownloadFileApplication/src/main/java/com/arshiya/DownloadFileApplication/DownloadFileApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DownloadFileApplication/src/main/java/com/arshiya/DownloadFileApplication/DownloadFileApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DownloadFileApplication/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../DownloadFileApplication/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/src/main/java/com/arshiya/InsertionDatabaseApplication/InsertionDatabaseApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionDatabaseApplication/src/test/java/com/arshiya/InsertionDatabaseApplication/InsertionDatabaseApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/src/main/java/com/arshiya/SubmittedApplications/SubmittedApplicationsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SubmittedApplications/src/test/java/com/arshiya/SubmittedApplications/SubmittedApplicationsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/arshiya/ValidationFileApplication/ValidationFileApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arshiya/ValidationFileApplication/ValidationFileApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bCOzp69Cz7luFrGgnw749WhObu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloudConfigServer" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ValidationFileApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arshiya.ValidationFileApplication.ValidationFileApplication" />
+      <module name="ValidationFileApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arshiya.ValidationFileApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValidationFileApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bf0254f-95e8-44ac-ac93-3bcca49069c7" name="Default Changelist" comment="" />
+      <created>1588132873112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588132873112</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1602649083265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602649083265" />
+  </component>
+</project>
